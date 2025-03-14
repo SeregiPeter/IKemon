@@ -1,0 +1,58 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "money": 0,
+        "admin": true,
+        "id": "admin"
+    },
+    "65a258203e8a5": {
+        "username": "newww",
+        "email": "agvdjab@gmail.com",
+        "password": "newww",
+        "money": 1000,
+        "admin": false,
+        "id": "65a258203e8a5"
+    },
+    "65a27c5d962a3": {
+        "username": "feri",
+        "email": "feri@gmail.com",
+        "password": "feri",
+        "money": 1000,
+        "admin": false,
+        "id": "65a27c5d962a3"
+    },
+    "65a2f97443087": {
+        "username": "barmi",
+        "email": "fvuagbjh@gmail.com",
+        "password": "barmi",
+        "money": 1000,
+        "admin": false,
+        "id": "65a2f97443087"
+    },
+    "65a3b7eb4dbbc": {
+        "username": "ferike",
+        "email": "ferike@gmail.com",
+        "password": "ferike",
+        "money": 1000,
+        "admin": false,
+        "id": "65a3b7eb4dbbc"
+    },
+    "65a464f83978e": {
+        "username": "kalman",
+        "email": "kalman@gmail.com",
+        "password": "kalman",
+        "money": 1000,
+        "admin": false,
+        "id": "65a464f83978e"
+    },
+    "67d3f49cc505c": {
+        "username": "pepepe",
+        "email": "almafa@gmail.com",
+        "password": "pepepepe",
+        "money": 840,
+        "admin": false,
+        "id": "67d3f49cc505c"
+    }
+}
